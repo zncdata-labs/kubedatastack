@@ -13,8 +13,8 @@
 </div>
 
 Kubedoop Data Platform is a modular open-source data platform that provides Kubernetes-native deployment
-and management of popular open source data apps like Apache Kafka, Apache Doris, Trino and Apache Spark.
-All data apps work together seamlessly, and can be added or removed in no time.
+and management of popular open source data apps like [Apache Kafka](https://kafka.apache.org/), [Apache Doris](https://doris.apache.org/), [Apache Kyuubi](https://kyuubi.apache.org/),
+[Trino](https://trino.io/) and [Apache Spark](https://spark.apache.org/). All data apps work together seamlessly, and can be added or removed in no time.
 Based on Kubernetes, it allows you to deploy, scale and manage data infrastructure in any environment running everywhere – on-prem or in the cloud.
 
 You can declaratively build these environments, and we don’t stop at the tool level as we also provide ways for the users to interact with the platform in the "as Code"-approach.
@@ -82,6 +82,19 @@ We develop and test our operators on the following cloud platforms:
 * Alibaba ACK
 * Tencent TKE
 
+## Community
+
+We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions on the Github Issues/Discussion, chat on IM or the community meeting.
+
+### Contact Us
+
+Reach out with any questions you may have and we'll make sure to answer them as soon as possible!
+
+* Mailing list/group: [kubedoop@googlegroups.com](https://groups.google.com/g/kubedoop) (*English*)
+* Slack: #kubedoop on [http://kubedoop.slack.com](http://kubedoop.slack.com) (*English*)
+* WeChat Group (*Chinese*): Scan the QR code to add WeChat, invite to join the group, and apply for a comment of "Kubedoop".
+
+  <img src="./docs/assets/contact-wechat.jpg" width="200" alt="Contact WeChat" />
   
 ## Contributing
 
@@ -90,7 +103,7 @@ We welcome contributions of all kinds, including but not limited to code, docume
 
 ## License
 
-Copyright 2024.
+Copyright 2024 the Kubedoop Authors. All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
