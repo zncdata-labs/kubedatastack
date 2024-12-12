@@ -13,7 +13,7 @@
 </div>
 
 Kubedoop Data Platform is a modular open-source data platform that provides Kubernetes-native deployment
-and management of popular open source data apps like [Apache Kafka](https://kafka.apache.org/), [Apache Doris](https://doris.apache.org/), [Apache Kyuubi](https://kyuubi.apache.org/),
+and management of popular open source data apps like [Apache Kafka](https://kafka.apache.org/), [Apache Doris](https://doris.apache.org/),
 [Trino](https://trino.io/) and [Apache Spark](https://spark.apache.org/). All data apps work together seamlessly, and can be added or removed in no time.
 Based on Kubernetes, it allows you to deploy, scale and manage data infrastructure in any environment running everywhere – on-prem or in the cloud.
 
@@ -92,7 +92,7 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 * Mailing list/group: [kubedoop@googlegroups.com](https://groups.google.com/g/kubedoop) (*English*)
 * Slack: #kubedoop on [http://kubedoop.slack.com](http://kubedoop.slack.com) (*English*)
-* WeChat Group (*Chinese*): Scan the QR code to add WeChat, invite to join the group, and apply for a comment of "Kubedoop".
+* WeChat Group (*Chinese*): Broker WeChat to add you into the user group. Scan the QR code to add WeChat, invite to join the group, and apply for a comment of `Kubedoop`.
 
   <img src="./docs/assets/contact-wechat.jpg" width="200" alt="Contact WeChat" />
   
@@ -103,16 +103,4 @@ We welcome contributions of all kinds, including but not limited to code, docume
 
 ## License
 
-Copyright 2024 the Kubedoop Authors. All rights reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Kubedoop is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
