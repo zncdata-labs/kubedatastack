@@ -103,4 +103,4 @@ We welcome contributions of all kinds, including but not limited to code, docume
 
 ## License
 
-Kubedoop is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+Kubedoop is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
